@@ -1,4 +1,4 @@
-cp /home/guci/XX-Net-2.5.5/data/gae_proxy/good_ip.txt ./mintconfig
+cp /home/guci/XX-Net-2.5.5/data/gae_proxy/good_ip.txt ./mintconfig/good_ip.txt
 cd mintconfig
 git add .
 git commit -m "test"
