@@ -1,0 +1,12 @@
+<settings>
+  
+  <mirrors>  
+    <mirror>  
+      <id>CN</id>  
+    <name>OSChinaCentral</name>                                                                                                                         
+      <url>http://central.maven.org/maven2/</url>  
+      <mirrorOf>central</mirrorOf>  
+    </mirror>  
+  </mirrors>  
+  
+</settings>
