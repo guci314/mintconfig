@@ -113,9 +113,9 @@ cd "$INSTALL_PATH" && chmod 777 "node" -R
 cd "$INSTALL_PATH" && chmod 777 "gradle" -R
 
 # Clean up any files that were downloaded from the internet
-cd ~/Desktop && rm "android-sdk.tgz"
-cd ~/Desktop && rm "nodejs.tgz"
-cd ~/Desktop && rm "gradle.zip"
+rm "android-sdk.tgz"
+rm "nodejs.tgz"
+rm "gradle.zip"
 
 echo "----------------------------------"
 echo "Restart your Ubuntu session for installation to complete..."
